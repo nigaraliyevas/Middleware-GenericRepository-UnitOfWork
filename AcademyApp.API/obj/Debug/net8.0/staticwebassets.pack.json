@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.API\\wwwroot\\uploads\\img\\99f652e1-479e-4e1f-a14f-2751e2e3870fZME5U.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img\\99f652e1-479e-4e1f-a14f-2751e2e3870fZME5U.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AcademyApp.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AcademyApp.API.props",
+      "PackagePath": "build\\AcademyApp.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AcademyApp.API.props",
+      "PackagePath": "buildMultiTargeting\\AcademyApp.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AcademyApp.API.props",
+      "PackagePath": "buildTransitive\\AcademyApp.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

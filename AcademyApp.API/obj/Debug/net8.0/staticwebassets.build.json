@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "xSUVyMRg7b3A3nT7W+X6j4/jn75gq7SiVBP4NfKXvU0=",
+  "Source": "AcademyApp.API",
+  "BasePath": "_content/AcademyApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AcademyApp.API\\wwwroot",
+      "Source": "AcademyApp.API",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.API\\wwwroot\\",
+      "BasePath": "_content/AcademyApp.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.API\\wwwroot\\uploads\\img\\99f652e1-479e-4e1f-a14f-2751e2e3870fZME5U.jpg",
+      "SourceId": "AcademyApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.API\\wwwroot\\",
+      "BasePath": "_content/AcademyApp.API",
+      "RelativePath": "uploads/img/99f652e1-479e-4e1f-a14f-2751e2e3870fZME5U.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\img\\99f652e1-479e-4e1f-a14f-2751e2e3870fZME5U.jpg"
+    }
+  ]
+}

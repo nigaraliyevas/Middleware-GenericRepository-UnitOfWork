@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF8DF7-D47D-4492-8063-6AA4B999EF85}|AcademyApp.Application\\AcademyApp.Application.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api with architecture\\academyapp\\academyapp.application\\service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF8DF7-D47D-4492-8063-6AA4B999EF85}|AcademyApp.Application\\AcademyApp.Application.csproj|solutionrelative:academyapp.application\\service\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B80D2-C1C4-45C9-9AB9-9921CCD87741}|AcademyApp.API\\AcademyApp.API.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api with architecture\\academyapp\\academyapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B80D2-C1C4-45C9-9AB9-9921CCD87741}|AcademyApp.API\\AcademyApp.API.csproj|solutionrelative:academyapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52F0E52-320C-4199-A3E9-88C0FFEDF732}|AcademyApp.DataAccess\\AcademyApp.DataAccess.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api with architecture\\academyapp\\academyapp.dataaccess\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52F0E52-320C-4199-A3E9-88C0FFEDF732}|AcademyApp.DataAccess\\AcademyApp.DataAccess.csproj|solutionrelative:academyapp.dataaccess\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF8DF7-D47D-4492-8063-6AA4B999EF85}|AcademyApp.Application\\AcademyApp.Application.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api with architecture\\academyapp\\academyapp.application\\service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF8DF7-D47D-4492-8063-6AA4B999EF85}|AcademyApp.Application\\AcademyApp.Application.csproj|solutionrelative:academyapp.application\\service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF8DF7-D47D-4492-8063-6AA4B999EF85}|AcademyApp.Application\\AcademyApp.Application.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api with architecture\\academyapp\\academyapp.application\\service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF8DF7-D47D-4492-8063-6AA4B999EF85}|AcademyApp.Application\\AcademyApp.Application.csproj|solutionrelative:academyapp.application\\service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52F0E52-320C-4199-A3E9-88C0FFEDF732}|AcademyApp.DataAccess\\AcademyApp.DataAccess.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api with architecture\\academyapp\\academyapp.dataaccess\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52F0E52-320C-4199-A3E9-88C0FFEDF732}|AcademyApp.DataAccess\\AcademyApp.DataAccess.csproj|solutionrelative:academyapp.dataaccess\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8375936F-680E-412B-89FB-9BB93C0F35C2}|AcademyApp.Core\\AcademyApp.Core.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api with architecture\\academyapp\\academyapp.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8375936F-680E-412B-89FB-9BB93C0F35C2}|AcademyApp.Core\\AcademyApp.Core.csproj|solutionrelative:academyapp.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CF8DF7-D47D-4492-8063-6AA4B999EF85}|AcademyApp.Application\\AcademyApp.Application.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api with architecture\\academyapp\\academyapp.application\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CF8DF7-D47D-4492-8063-6AA4B999EF85}|AcademyApp.Application\\AcademyApp.Application.csproj|solutionrelative:academyapp.application\\profiles\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "AcademyApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.API\\Program.cs",
+              "RelativeToolTip": "AcademyApp.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:19:38.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Application\\Service\\Implementations\\GroupService.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Application\\Service\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Application\\Service\\Implementations\\GroupService.cs",
+              "RelativeToolTip": "AcademyApp.Application\\Service\\Implementations\\GroupService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:16:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.DataAccess\\Implementations\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "AcademyApp.DataAccess\\Implementations\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.DataAccess\\Implementations\\GroupRepository.cs",
+              "RelativeToolTip": "AcademyApp.DataAccess\\Implementations\\GroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:02:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.DataAccess\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "AcademyApp.DataAccess\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.DataAccess\\Implementations\\Repository.cs",
+              "RelativeToolTip": "AcademyApp.DataAccess\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAewFcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:43:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Core\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Core\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Core\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "AcademyApp.Core\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:31:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Application\\Profiles\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Application\\Profiles\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Application\\Profiles\\MapperProfile.cs",
+              "RelativeToolTip": "AcademyApp.Application\\Profiles\\MapperProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:47:04.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Application\\Service\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Application\\Service\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Application\\Service\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "AcademyApp.Application\\Service\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:46:49.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Application\\Service\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "AcademyApp.Application\\Service\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API with Architecture\\AcademyApp\\AcademyApp.Application\\Service\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "AcademyApp.Application\\Service\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:46:46.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
